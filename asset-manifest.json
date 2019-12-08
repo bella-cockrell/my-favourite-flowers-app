@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-favourite-flowers-app/static/css/main.60f72c90.chunk.css",
+    "main.js": "/my-favourite-flowers-app/static/js/main.4b703220.chunk.js",
+    "main.js.map": "/my-favourite-flowers-app/static/js/main.4b703220.chunk.js.map",
+    "runtime-main.js": "/my-favourite-flowers-app/static/js/runtime-main.c2ae0e3b.js",
+    "runtime-main.js.map": "/my-favourite-flowers-app/static/js/runtime-main.c2ae0e3b.js.map",
+    "static/js/2.1805597b.chunk.js": "/my-favourite-flowers-app/static/js/2.1805597b.chunk.js",
+    "static/js/2.1805597b.chunk.js.map": "/my-favourite-flowers-app/static/js/2.1805597b.chunk.js.map",
+    "index.html": "/my-favourite-flowers-app/index.html",
+    "precache-manifest.b932d9dbb64f03c55ad100fec00f6462.js": "/my-favourite-flowers-app/precache-manifest.b932d9dbb64f03c55ad100fec00f6462.js",
+    "service-worker.js": "/my-favourite-flowers-app/service-worker.js",
+    "static/css/main.60f72c90.chunk.css.map": "/my-favourite-flowers-app/static/css/main.60f72c90.chunk.css.map",
+    "static/media/dahlia.jpg": "/my-favourite-flowers-app/static/media/dahlia.82d9965a.jpg",
+    "static/media/peony.jpg": "/my-favourite-flowers-app/static/media/peony.b5bc17fc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2ae0e3b.js",
+    "static/js/2.1805597b.chunk.js",
+    "static/css/main.60f72c90.chunk.css",
+    "static/js/main.4b703220.chunk.js"
+  ]
+}
