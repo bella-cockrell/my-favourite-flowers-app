@@ -1,0 +1,44 @@
+  .Flower .title { /*This .Flower pulls from the className of the div*/
+    display: block;
+    padding-bottom: 15px;
+    color: blue;
+    font-size: 20px;
+  }
+  
+  .Flower .variety {
+    display: block;
+    color: red;
+    padding-bottom: 15px;
+  }
+  
+  .Flower img {
+    width: 400px;
+    max-width: 100%;
+    padding-bottom: 15px;
+  }
+  
+  @media only screen and (min-width: 600px){
+    .Flower img {
+      width: 400px;
+    }
+  }
+  
+  /* 
+  .container {
+    display: auto;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 150px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+   
+  
+  }
+  .container img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border: 5px solid orange
+  
+  } */

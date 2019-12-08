@@ -1,24 +1,32 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import Flower from './MyFavFlowers/MyFavFlowers';
+
+import roseImage from './MyFavFlowers/Images/rose.jpeg'; //camelCase
+import peonyImage from './MyFavFlowers/Images/peony.jpg';
+import dahliaImage from './MyFavFlowers/Images/dahlia.jpg';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+
+      <h1>My Favourite Flowers</h1>
+
+      <Flower title='Rose'
+        image={roseImage}
+        variety='Prussian Red'
+      />
+
+      <Flower title='Peony'
+        image={peonyImage}
+        variety="Big Girl's Blouse"
+      />
+
+      <Flower title='Dahlia'
+        image={dahliaImage}
+        variety='Spikey Boy'
+      />
+
     </div>
   );
 }

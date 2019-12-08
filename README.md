@@ -1,3 +1,11 @@
+# My Favourite Flowers app
+
+This really simple app was created following Kodiri's free React coding workshop, [From Zero to Hero](https://www.meetup.com/kodiri/).
+
+I have also deployed this app via GitHub Pages, following [this](https://github.com/gitname/react-gh-pages) tutorial. The website is available to view [here](https://bella-cockrell.github.io/my-favourite-flowers-app/).
+
+## `React ReadMe Documentation`
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
